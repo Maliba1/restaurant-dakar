@@ -1,0 +1,17 @@
+.header {
+    background-color: #008751;
+    padding: 1rem;
+}
+
+.nav-list {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    padding: 0;
+}
+
+.nav-list a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
